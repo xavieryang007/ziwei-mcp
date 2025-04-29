@@ -1,4 +1,4 @@
-module date-mcp
+module ziwei-mcp
 
 go 1.23
 
