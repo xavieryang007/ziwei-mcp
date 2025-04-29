@@ -49,4 +49,4 @@ go run main.go --host 127.0.0.1 --port 3000
 ## 依赖库
 - [mcp-go](https://github.com/mark3labs/mcp-go) v0.20.1
 - [goja](https://github.com/dop251/goja) JavaScript引擎
-- iztro.min.js 紫微斗数排盘核心逻辑文件 (位于项目根目录)
+- [iztro](https://github.com/SylarLong/iztro) iztro.min.js 紫微斗数排盘核心逻辑文件 (位于项目根目录)
